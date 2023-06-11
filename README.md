@@ -1,2 +1,2 @@
-# teresasantos-portfolio
-Teresa Santos' Portfolio
+# personal-portfolio
+My Personal Portfolio
